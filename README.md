@@ -1,4 +1,6 @@
 # Avogadro-Packmol-Extension
+# This is a fork from https://github.com/timvdm/Avogadro-Packmol-Extension
+# So I basically did nothing but provide a readme which might help others to install the library.
 An Avogadro plugin with a gui to create packmol input files and run packmol from within Avogadro.
 In order to install this extension, I did the following:
   Clone this repository : git clone https://github.com/Alan-Rusty24/Avogadro-Packmol-Extension.git
